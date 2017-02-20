@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 
 var todoSchema = mongoose.Schema({
-    date: Date,
+    date: String,
     title: String,
     description: String,
     priority: String
