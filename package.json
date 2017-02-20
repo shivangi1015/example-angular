@@ -11,6 +11,7 @@
   "dependencies": {
     "body-parser": "^1.16.1",
     "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
     "express": "^4.14.1",
     "mongoose": "^4.8.3",
     "multer": "^1.3.0"
